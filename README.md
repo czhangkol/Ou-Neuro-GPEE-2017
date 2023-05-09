@@ -19,7 +19,7 @@ This repo is implementation for the accepted paper "[High-fidelity reversible da
 
 ```
 go to code
-Follow ReadMe.tex
+run Geosedic_main.m
 ```
 
 ## Experimental Results
