@@ -3,45 +3,45 @@ Geodesic path pairwise PEE
 =======
 
 
-This repo is implementation for the accepted paper "[High-fidelity reversible data hiding based on geodesic path and pairwise prediction-error expansion](https://www.sciencedirect.com/science/article/pii/S0925231216313832)" (Neurocomputing 2017).
+论文题目： "[High-fidelity reversible data hiding based on geodesic path and pairwise prediction-error expansion](https://www.sciencedirect.com/science/article/pii/S0925231216313832)" (Neurocomputing 2017).
 
 
 <p align="center"> <img src="./M1.jpg" width="100%">    </p>
-<p align="center"> Figure 1: The overview of embedding process. </p>
+<p align="center"> 图1: 嵌入过程示意. </p>
 
 
 <p align="center"> <img src="./M2.jpg" width="100%">    </p>
-<p align="center"> Figure 2: Construction of pair sequence.</p>
+<p align="center"> 图2: 成对序列构造.</p>
 
 
 
-## How to run
+## 如何运行
 
 ```
-go to code
-run Geosedic_main.m
+打开 code 文件夹
+运行 Geosedic_main.m 文件
 ```
 
-## Experimental Results
+## 实验结果
 
 <p align="center"> <img src="./R1.jpg" width="100%">    </p>
-<p align="center"> Figure 3: Performance evaluation in terms of capacity-distortion </p>
+<p align="center"> 图3: 性能比较 </p>
 
 <p align="center"> <img src="./R2.jpg" width="100%">    </p>
-<p align="center"> Figure 4: erformance comparison on Kodak image database for a capacity of 10,000 bits.</p>
+<p align="center"> 图4: Kodak图像库性能对比.</p>
 
 
 
-## Environment
+## 实验环境
 Matlab 2016b <br>
 
 
-## Acknowledgement
-This work is supported by the National Science Foundation of China (Nos. 61502160, 61572052, 61272421, 61370225 and 61572182), the PAPD fund, and the CICAEET fund.
+## 致谢
+这项工作得到了国家科学基金（Nos. 61502160、61572052、61272421、61370225和61572182）、PAPD基金和CICAEET基金的支持。
 
 
-## Citation
-If you find this work useful for your research, please cite
+## 引用格式
+如果这项工作对您的研究有帮助, 请按如下格式引用：
 ```
 @article{OU201723,
 title = {High-fidelity reversible data hiding based on geodesic path and pairwise prediction-error expansion},
@@ -54,6 +54,6 @@ author = {Bo Ou and Xiaolong Li and Jinwei Wang and Fei Peng},
 }
 ```
 
-## License and Copyright
-The project is open source under MIT license (see the ``` LICENSE ``` file).
+## 版权声明
+受欧博老师委托，本项目已开源 (详见 ``` MIT LICENSE ``` ).
 
